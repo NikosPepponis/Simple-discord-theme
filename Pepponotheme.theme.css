@@ -1227,3 +1227,51 @@ cc
     color: black;
     font-weight: 600;
 }
+
+.popout-15UxD6{
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+.option-Uc12mm[aria-selected=true]:not(.option-Uc12mm.multi-2vPqc4){
+    background-color: black;
+    border-radius: 0px 50px 50px 0px;
+}
+.option-Uc12mm.focused-10mbp-, .option-Uc12mm:focus, .option-Uc12mm:hover{
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.685);
+    border-radius: 0px 50px 50px 0px;
+}
+.lookOutlined-3RTC7c.colorBrand-2M3O3N {
+    color: black;
+    border: 2.4px solid rgb(255, 255, 255);
+    background-color: #2cb872;
+    font-weight: 700;
+    transition: 400ms;
+    border-radius: 10px;
+}
+.theme-dark .container-30qY7E {
+    background-color: #000;
+    border: 2.4px solid rgb(197, 116, 116);
+    border-radius: 5px;
+}
+.premiumSubscriptionAccountCredit-1UInYJ {
+    border-radius: 5px !important;
+    padding: 8px 0;
+    background-color: #000;
+}
+.theme-dark .sectionAccountCredit-1IqaxB, .theme-dark .subscriptionDetails-ZcKNHC {
+    border-bottom: 2.4px solid rgb(197, 116, 116);
+    border-radius: 5px;
+}
+.theme-dark .bottomDivider-ZmTm-j {
+    border-bottom-color: rgba(255, 255, 255, 0.541) !important;
+    background-color: #000;
+    border-radius: 20px 20px 0px 0px!important;
+}
+.theme-dark .paginator-1eqD2g{
+    background-color: #000;
+    border-radius: 0px 0px 20px 20px !important;
+}
+.theme-dark .paymentPane-ut5qKZ{
+    background-color: transparent !important;
+}
