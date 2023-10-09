@@ -1098,14 +1098,3 @@ cc
 .iconBadge-32fMme.isCurrentUserConnected-1GQb_C{
     background-color: red !important;
 }
-.rtcConnectionStatusConnected-1c73OK,.rtcConnectionQualityFine-3zZrSa .pingForeground-1BRBTc{
-    color: green !important;
-}
-.rtcConnectionStatusConnected-1c73OK {
-    color: rgb(0, 255, 13) !important;
-}
-.rtcConnectionStatusConnected-1c73OK::before {
-    content: "Voice Conected";
-    color: green;
-    font-family: "Indie Flower";
-}
