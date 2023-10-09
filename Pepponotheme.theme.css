@@ -1284,3 +1284,13 @@ cc
     color: aquamarine;
     font-family: "Signika+Negative";
 }
+.unreadPill-3nEWYM {
+    background-color: rgb(211, 0, 0) !important;
+}
+.isUnread-3Lojb-, .custom-theme-background .isUnread-3Lojb-{
+    border-color: transparent !important;
+}
+.unreadPillCapStroke-1nE1Q8 {
+    color: rgb(211, 0, 0) !important;
+    fill: rgb(211, 0, 0) !important;
+}
