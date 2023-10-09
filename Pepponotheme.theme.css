@@ -1106,6 +1106,5 @@ cc
     background-color: red !important;
 }
 .rtcConnectionStatusConnected-1c73OK {
-    color: transparent;
+    color: transparent !important;
 }
-/*tet*/
