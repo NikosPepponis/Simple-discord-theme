@@ -1162,7 +1162,56 @@ cc
 }
 .sessionMoreButton-2cApSx{
     background-color: white !important;
-    border-radius: 3px !important;
+    border-radius: 8px !important;
     color: red;
     height: 24px;
+}
+.connectContainer-1hylYM {
+    margin-bottom: 16px;
+    background-color: #000;
+    border-radius: var(--radius-sm);
+    padding: 16px;
+}
+.accountButtonInner-33vCDY{
+    width: 52px;
+    height: 52px;
+    color: var(--interactive-normal);
+    border-radius: 50px !important;
+    background-size: 36px 36px;
+}
+.root-1CAIjD:not(:has(.imageWrapper-oMkQl4)){
+    background-color: #000;
+    border: 1.4px solid rgb(255, 255, 255);
+}
+.accountBtnInner-1DCgBm {
+    background-color: var(--background-secondary);
+    border: none;
+    border-radius: 50px;
+}
+.connectionHeader-Ixbb1s{
+    background-color: #000;
+    border-radius: 20px 20px 0px 0px;
+}
+.connectionOptionsWrapper-3aVWcp{
+    background-color: var(--background-secondary-alt);
+    border-radius: 0px 0px 20px 20px;
+    border-bottom: 2.4px solid rgb(255, 255, 255);
+}
+.connection-YOVI9j{
+    border-radius: 40px;
+}
+.lookFilled-1H2Jvj.colorGreen-jIPCAS:disabled, .lookFilled-1H2Jvj.colorGreen-jIPCAS[aria-disabled=true] {
+    background-color: green !important;
+}
+.metadataContainer-35U-On {
+    background-color: var(--background-tertiary);
+    border-radius: var(--radius-sm);
+    padding: 8px 24px;
+    margin: 20px 16px 0;
+}
+.base-3IDx3L{
+    background-color: rgb(31, 54, 189) !important;
+}
+.info-1oGfsf{
+    border-radius: 10px;
 }
