@@ -518,6 +518,7 @@ button.button-12Fmur{
 .markup-eYLPri code{
     background-color: white !important;
     color: #000 !important;
+    font-weight: 700;
 }
 ::-webkit-scrollbar-thumb {
     border: none !important;
@@ -1117,8 +1118,8 @@ cc
 }
 .lookFilled-GPyucw.select-Zz0IcO {
     background-color: #000;
-    border-color: white;
-    border-radius: 20%;
+    border: 2.4px solid rgb(255, 255, 255);
+    border-radius: 20px;
 }
 .background-3d_SjE{
     padding: 10px !important;
@@ -1211,4 +1212,18 @@ cc
 }
 .info-1oGfsf{
     border-radius: 10px;
+}
+.divider-3nqZNm{
+    background: rgb(255, 255, 255);
+    height: 1.5px !important;
+    border-radius: 50px !important;
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+}
+.footer-IubaaS > .lookBlank-FgPMy6, .footer-IubaaS > .back-Uv5ziB > .link-290TKp, .lookLink-13iF2K.colorPrimary-2-Lusz{
+    border-radius: 7px;
+}
+.after_inlineCode-2_JXPm, .before_inlineCode-1zngJj, .inlineCode-ERyvy_{
+    background-color: white;
+    color: black;
+    font-weight: 600;
 }
