@@ -1102,7 +1102,7 @@ cc
     color: green !important;
 }
 .rtcConnectionStatusConnected-1c73OK {
-    color: red !important;
+    color: rgba(255, 0, 0, 0) !important;
 }
 .rtcConnectionStatusConnected-1c73OK::before {
     content: "Voice Conected";
