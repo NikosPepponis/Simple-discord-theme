@@ -1153,3 +1153,16 @@ cc
     border: 1.4px solid rgb(255, 255, 255);
     border-radius: 12px;
 }
+.session-9khLqt{
+    background-color: black !important;
+    border-radius: 300px;
+    margin-bottom: 5px;
+    margin-top: 6px;
+    padding: 13px !important;
+}
+.sessionMoreButton-2cApSx{
+    background-color: white !important;
+    border-radius: 3px !important;
+    color: red;
+    height: 24px;
+}
