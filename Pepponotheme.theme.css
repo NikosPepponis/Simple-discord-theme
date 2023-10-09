@@ -1320,3 +1320,81 @@ border-radius: 50%;
 z-index: 999!important;
 }
 .offline-22aM7E{opacity: 0.2;}
+.lookOutlined-3RTC7c.colorPrimary-2-Lusz{
+    border-color: rgb(82, 235, 95) !important;
+    background-color: black !important;
+    border-radius: 10px;
+}
+.container-3EtAkD{
+    background-color: black;
+    border-radius: 10px;
+}
+.members-3WRCEx .membersGroup-2eiWxl {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--main-color);
+    font-size: 11px;
+    font-weight: 700;
+    text-align: center;
+    transition: all .15s ease-in-out;
+    opacity: .85;
+}
+.membersGroup-2eiWxl {
+    padding: 24px 8px 0 16px;
+    height: 40px;
+}
+.container-q97qHp {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: .02em;
+    font-family: var(--font-display);
+    font-weight: 600;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    color: var(--channels-default);
+}
+[data-accessibility*=desaturate] {
+    -webkit-filter: saturate(var(--saturation-factor,1));
+    filter: saturate(var(--saturation-factor,1));
+}
+.members-3WRCEx .membersGroup-2eiWxl:before {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to left, currentColor 50%, transparent);
+    margin-right: 5px;
+}
+.hiddenVisually-39QJvl, .showOnFocus-3_Ufy3:not(:focus-within) {
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+.members-3WRCEx .membersGroup-2eiWxl:after {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to right, currentColor 50%, transparent);
+    margin-left: 5px;
+}
+.members-3WRCEx {
+    width: var(--members-width);
+    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+:root {
+  /* ACCENT COLORS */
+  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+}
