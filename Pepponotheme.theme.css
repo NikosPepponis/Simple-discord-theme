@@ -1170,10 +1170,6 @@ cc
     border-radius: 50px !important;
     background-size: 36px 36px;
 }
-.root-1CAIjD:not(:has(.imageWrapper-oMkQl4)){
-    background-color: #000;
-    border: 1.4px solid rgb(255, 255, 255);
-}
 .accountBtnInner-1DCgBm {
     background-color: var(--background-secondary);
     border: none;
@@ -1523,4 +1519,3 @@ z-index: 999!important;
     z-index: -1;
     opacity: .2;
 }
-
