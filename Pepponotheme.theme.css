@@ -1090,10 +1090,7 @@ cc
     border-radius: 5px;
 }
 .cardPrimary-pAe8Ed, .cardPrimary-pAe8Ed.editable-2xfXMr{
-    border-color: transparent !important;
-    background: radial-gradient(circle, rgba(30,42,107,1) 0%, rgba(60,34,70,1) 60%, rgba(85,27,39,1) 100%);
     border-radius: 15px;
-    box-shadow: 0px 0px 5px 0px black;
 }
 .colorBrand-I6CyqQ:hover:not(.emojiButton-3FRTuj,
 .app-2CXKsg button,
