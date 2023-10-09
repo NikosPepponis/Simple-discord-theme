@@ -1115,3 +1115,6 @@ cc
 .iconBadge-32fMme.isCurrentUserConnected-1GQb_C{
     background-color: red !important;
 }
+.rtcConnectionStatusConnected-1c73OK {
+    color: transparent;
+}
