@@ -1095,6 +1095,23 @@ cc
     border-radius: 15px;
     box-shadow: 0px 0px 5px 0px black;
 }
-.iconBadge-32fMme.isCurrentUserConnected-1GQb_C{
-    background-color: red !important;
+.colorBrand-I6CyqQ:hover:not(.emojiButton-3FRTuj,
+.app-2CXKsg button,
+.button-12Fmur,
+.enabled-9OeuTA,
+.close-1mLglB:hover,
+.rtcConnectionStatusConnected-1c73OK,
+.wrapper-3t3Yqv,
+.centerButton-1IShs7,
+.colorable-3rVGna) {
+    background-color: #353a57 !important;
+    transition: 300ms !important;
+}
+.rtcConnectionStatusConnected-1c73OK {
+    color: transparent;
+}
+.rtcConnectionStatusConnected-1c73OK::before {
+    content: "Voice Conected";
+    color: green;
+    font-family: "Indie Flower";
 }
