@@ -1123,3 +1123,15 @@ cc
 .background-3d_SjE{
     padding: 10px !important;
 }
+.top-Ktfr_T .brand-2EKq3J.selected-1sf9UK.item-2GWPIy {
+    border-bottom-color: red !important;
+    transition: 130ms;
+}
+.divider-1bpIoX, .tabBar-11FwuO {
+    border-bottom: 2px dashed #000;
+    transition: 130ms;
+}
+.top-Ktfr_T .brand-2EKq3J.item-2GWPIy:hover {
+    border-bottom-color: white !important;
+    transition: 130ms;
+}
