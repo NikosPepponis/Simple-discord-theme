@@ -1496,3 +1496,22 @@ z-index: 999!important;
     opacity: 1;
 }
 /*END MEMBER COLOR LINE */
+[aria-checked=true].item-1TA5qI .radioBar-1XgZqD {
+    background-color: var(--radio-bar-accent-color, var(--main-color)) !important;
+}
+
+[title=archive].icon-1KCy88 {
+    background-image: url(https://clearvision.github.io/icons/file_archive.svg) !important;
+}
+
+.icon-1KCy88 {
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+    padding-left: 30px;
+    background-image: url(https://clearvision.github.io/icons/file.svg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: .5;
+}
