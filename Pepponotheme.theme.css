@@ -1102,7 +1102,7 @@ cc
     color: green !important;
 }
 .rtcConnectionStatusConnected-1c73OK {
-    color: rgba(255, 0, 0, 0) !important;
+    color: rgb(0, 0, 0) !important;
     font-size: 0 !important;
     display: none !important;
 }
