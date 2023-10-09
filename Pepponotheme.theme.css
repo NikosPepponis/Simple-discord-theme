@@ -262,40 +262,33 @@
     background: var(--brand-500);
     border-radius: 16px;
 }
-
 .modeSelected-3DmyhH>.content-1gYQeQ {
     background-color: rgba(255, 0, 149, 0.192);
     transition: 250ms;
 }
-
 .accountProfileCard-lbN7n- .avatar-3mTjvZ {
     transform: translateX(-50%) scale(1.43);
     left: 50%;
     top: 70px;
     border: 1.2px dashed white;
 }
-
 .userInfo-regn9W {
     margin-bottom: 70px;
 }
-
 .avatar-3mTjvZ~button {
     right: 32px;
     position: absolute;
 }
-
 .avatar-3mTjvZ~div:not([class]) {
     position: absolute;
     left: 50%;
     transform: translateX(-40%);
     margin-top: 50px;
 }
-
 .avatar-3mTjvZ {
     left: 50%;
     transform: translateX(-50%);
 }
-
 .contentColumnDefault-3eyv5o {
     position: relative;
     padding: 90px 10px 0px;
@@ -303,7 +296,6 @@
     margin-right: 60px;
     margin-top: 30px;
 }
-
 .accountProfileCard-lbN7n- {
     background-color: var(--background-tertiary);
     border-radius: 8px;
@@ -312,12 +304,10 @@
     margin-right: -145px;
     border: 5px dashed;
 }
-
 .background-3d_SjE {
     border: thick double #32a2ce67;
     background-color: transparent;
 }
-
 .fieldList-in8WkP {
     background-color: transparent;
     padding: 0px;
@@ -1118,3 +1108,4 @@ cc
 .rtcConnectionStatusConnected-1c73OK {
     color: transparent;
 }
+/*tet*/
