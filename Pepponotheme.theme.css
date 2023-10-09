@@ -515,11 +515,6 @@ button.button-12Fmur{
 .accountProfilePopoutWrapper-3GskID{
     left: 0px !important; 
 }
-.markup-eYLPri code{
-    background-color: white !important;
-    color: #000 !important;
-    font-weight: 700;
-}
 ::-webkit-scrollbar-thumb {
     border: none !important;
     background-clip: content-box !important;
@@ -777,7 +772,7 @@ button.button-12Fmur{
 .hljs {
     background-color: var(--background-tertiary);
     border: transparent !important;
-    border-radius: 15px;
+    border-radius: 5px;
 }
 #app-mount .guilds-2JjMmN .unreadMentionsIndicatorBottom-3RJMnQ {
     bottom: calc(var(--user-area) + 10px);
