@@ -387,14 +387,7 @@
     visibility: visible !important;
     text-decoration: underline;
 }
-.rtcConnectionStatusConnected-1c73OK,.rtcConnectionQualityFine-3zZrSa .pingForeground-1BRBTc{
-    color: green !important;
-}
-.rtcConnectionStatusConnected-1c73OK::before {
-    content: "Voice Conected";
-    color: green;
-    font-family: "Indie Flower";
-}
+
 .button-Jt-tIg{
     background-color: #000000 !important;
     border-radius: 6px !important;
@@ -1105,6 +1098,14 @@ cc
 .iconBadge-32fMme.isCurrentUserConnected-1GQb_C{
     background-color: red !important;
 }
+.rtcConnectionStatusConnected-1c73OK,.rtcConnectionQualityFine-3zZrSa .pingForeground-1BRBTc{
+    color: green !important;
+}
 .rtcConnectionStatusConnected-1c73OK {
     color: red !important;
+}
+.rtcConnectionStatusConnected-1c73OK::before {
+    content: "Voice Conected";
+    color: green;
+    font-family: "Indie Flower";
 }
