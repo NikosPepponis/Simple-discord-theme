@@ -1442,13 +1442,7 @@ z-index: 999!important;
     left: calc(50% - -1px);
 }
 /*custom user setting profile position*/
-.layer-86YKbF .accountProfileCard-lbN7n- .settingsBanner-1eDJ5w {
-    margin: 8px;
-    width: unset;
-    height: 90px!important;
-    min-height: 0px;
-    border-radius: 8px;
-  }
+
   .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W {
     align-items: center;
     justify-content: center;
