@@ -144,8 +144,8 @@
 .avatar-3mTjvZ~div:not([class]) {
     position: absolute;
     left: 50%;
-    transform: translateX(-40%);
-    margin-top: 50px;
+    transform: translateX(-48%);
+    margin-top: 120px !important;
 }
 .avatar-3mTjvZ {
     left: 50%;
@@ -1443,15 +1443,15 @@ z-index: 999!important;
 }
 /*custom user setting profile position*/
 
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W {
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W {
     align-items: center;
     justify-content: center;
     width: calc(100% - 34px);
     margin-left: 17px;
     padding: 0;
-    padding-top: 94px;
-    padding-bottom: 9px;
-  }
+    padding-top: 65px !important;
+    padding-bottom: 5px;
+}
   .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .avatar-3mTjvZ {
     top: 50px;
     left: calc(50% - 43px);
