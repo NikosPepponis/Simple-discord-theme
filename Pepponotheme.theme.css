@@ -1469,11 +1469,6 @@ z-index: 999!important;
   .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .userTag-2qPxEZ {
     margin-bottom: 2px;
   }
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .container-1gYwHN {
-    justify-content: center;
-    width: 100%;
-    margin-bottom: 57px;
-  }
   .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC {
     position: absolute;
     top: 53px;
@@ -1567,3 +1562,30 @@ z-index: 999!important;
     box-shadow: none !important;
   }
   
+
+  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .container-1gYwHN {
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 57px;
+}
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .container-1gYwHN {
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 57px;
+}
+.theme-dark .badgeList-b3Ajmk {
+    border-radius: 8px;
+    background-color: #333135;
+    margin-top: 5px;
+    padding: 2px;
+}
+.badgeList-b3Ajmk {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    padding-left: 0;
+}
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .avatar-3mTjvZ {
+    top: 90px;
+    left: calc(50% - -1px);
+}
