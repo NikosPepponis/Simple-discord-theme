@@ -1519,3 +1519,10 @@ z-index: 999!important;
     z-index: -1;
     opacity: .2;
 }
+.root-1CAIjD {
+    background-color: var(--background-secondary) !important;
+    border-color: transparent !important;
+}
+.speaking-3K28iH {
+    box-shadow: inset 0 0 0 2px green,inset 0 0 0 3px green;
+}
