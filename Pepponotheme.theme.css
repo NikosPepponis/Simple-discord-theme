@@ -266,29 +266,6 @@
     background-color: rgba(255, 0, 149, 0.192);
     transition: 250ms;
 }
-.accountProfileCard-lbN7n- .avatar-3mTjvZ {
-    transform: translateX(-50%) scale(1.43);
-    left: 50%;
-    top: 70px;
-    border: 1.2px dashed white;
-}
-.userInfo-regn9W {
-    margin-bottom: 70px;
-}
-.avatar-3mTjvZ~button {
-    right: 32px;
-    position: absolute;
-}
-.avatar-3mTjvZ~div:not([class]) {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-40%);
-    margin-top: 50px;
-}
-.avatar-3mTjvZ {
-    left: 50%;
-    transform: translateX(-50%);
-}
 .contentColumnDefault-3eyv5o {
     position: relative;
     padding: 90px 10px 0px;
