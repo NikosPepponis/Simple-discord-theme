@@ -289,6 +289,11 @@
     left: 50%;
     transform: translateX(-50%);
 }
+.bannerSVGWrapper-2CLfzN foreignObject {
+    mask: none;
+    }
+.profilePanel-2VBkh8>.userProfileOuterUnthemed-11rPfA>div,#app-mount .userProfileOuterUnthemed-11rPfA{background: none;background-color: transparent;}
+  
 .contentColumnDefault-3eyv5o {
     position: relative;
     padding: 90px 10px 0px;
