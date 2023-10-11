@@ -1500,3 +1500,8 @@ z-index: 999!important;
     top: 87px;
     left: calc(50% - 1px);
 }
+.banner-1YaD3N:not( .popoutBannerPremium-3i5EEI) {
+    margin-left: 5px !important;
+    width: calc(100% - 11px);
+    border-radius: 12px;
+}
